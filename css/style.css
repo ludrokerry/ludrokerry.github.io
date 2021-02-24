@@ -100,7 +100,7 @@
 #email-container a {
     color: var(--main-text-color);
     text-decoration: none;
-    max-width: 25px;
+    max-width: 225px;
 }
 
 #email-container ion-icon {
